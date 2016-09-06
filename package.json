@@ -1,0 +1,35 @@
+{
+    "name": "NodejsStarterApp",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "4.13.x",
+        "cfenv": "1.0.x",
+        "vcap_services": "^0.1.7",
+        "websocket": "^1.0.22",
+        "wav": "",
+        "watson-developer-cloud": "^1.2.4",
+        "async": "0.9.x",
+        "aws-sdk": "^2.1.17",
+        "errs": "0.3.x",
+        "eventemitter2": "0.4.x",
+        "filed": "0.1.x",
+        "gcloud": "^0.10.0",
+        "ip": "",
+        "mime": "1.2.x",
+        "qs": "1.2.x",
+        "request": "2.40.x",
+        "s3-upload-stream": "~1.0.0",
+        "through2": "0.6.x",
+        "underscore": "1.6.x",
+        "url-join": "0.0.x",
+        "xml2js": "0.1.x"
+    },
+    "repository": {},
+    "engines": {
+        "node": "4.2.x"
+    }
+}
